@@ -196,7 +196,9 @@
 
     /*Channels*/
         #app-mount .sidebarList__5e434.sidebarListRounded__5e434 .container__2637a { background-color: transparent; }
-        #app-mount .sidebarList__5e434.sidebarListRounded__5e434 .container_f37cb1[data-has-banner="false"] .header_f37cb1 { background-color: var(--secondary3-colour); }  
+        #app-mount .sidebarList__5e434.sidebarListRounded__5e434 .container_f37cb1[data-has-banner="false"] .header_f37cb1 { 
+    background-color: rgb(20, 20, 25); 
+} 
         
         #app-mount .sidebarList__5e434.sidebarListRounded__5e434 .privateChannels_e6b769,
         #app-mount .sidebarList__5e434.sidebarListRounded__5e434 .privateChannels_e6b769 .scroller__99e7c {
